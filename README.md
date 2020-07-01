@@ -17,10 +17,6 @@ ngx-webstorage
 
 ngx-toastr
 
-mapstruct
-
-swagger-ui
-
 ### Features
 User Signup with verification mail
 
